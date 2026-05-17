@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-        </div>
+<section>
         <div class="glass p-6 rounded-2xl">
           <h3 class="font-bold text-xl mb-3">Web</h3>
           <p class="text-slate-300">HTML, CSS, JavaScript, Tailwind</p>
@@ -8,8 +8,6 @@
           <h3 class="font-bold text-xl mb-3">Tools</h3>
           <p class="text-slate-300">Git, GitHub, VS Code, Colab</p>
         </div>
-      </div>
-    </div>
   </section>
 
   <!-- Projects -->
