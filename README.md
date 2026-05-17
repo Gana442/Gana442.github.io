@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<section>
+<html>
+        <body>
+                <section>
         <div class="glass p-6 rounded-2xl">
           <h3 class="font-bold text-xl mb-3">Web</h3>
           <p class="text-slate-300">HTML, CSS, JavaScript, Tailwind</p>
@@ -65,6 +66,5 @@
   <footer class="py-8 border-t border-slate-800 text-center text-slate-500">
     © 2026 Your Name. Built with HTML + Tailwind CSS and hosted on GitHub Pages.
   </footer>
-
-</body>
+  </body>
 </html>
