@@ -63,7 +63,7 @@
   </section>
 
   <!-- Footer -->
-  <footer class="py-8 border-t border-slate-800 text-center text-slate-500">
+  <footer class="py-8 border-t border-slate-800 text-center text-slate-400">
     © 2026 Your Name. Built with HTML + Tailwind CSS and hosted on GitHub Pages.
   </footer>
   </body>
