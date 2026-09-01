@@ -11,7 +11,7 @@
         </div>
   </section>
 
-<a href="rooted.html">Visit My About Page</a>
+<a href="Rooted_3.jsx">Visit My About Page</a>
 
   <!-- Projects -->
   <section id="projects" class="py-24 bg-slate-900">
