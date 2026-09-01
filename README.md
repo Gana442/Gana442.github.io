@@ -10,8 +10,9 @@
           <p class="text-slate-300">Git, GitHub, VS Code, Colab</p>
         </div>
   </section>
+import { Link } from 'react-router-dom';
 
-<a href="weighted_dispersion_experiments.jsx">Visit My About Page</a>
+<!-- <a href="weighted_dispersion_experiments.jsx">Visit My About Page</a> -->
 
   <!-- Projects -->
   <section id="projects" class="py-24 bg-slate-900">
